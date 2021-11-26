@@ -1,0 +1,23 @@
+{
+  "name": "restapiproduto",
+  "version": "1.0.0",
+  "description": "rest api produto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brayan0508/restapiproduto.git"
+  },
+  "keywords": [],
+  "author": "grupo 2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brayan0508/restapiproduto/issues"
+  },
+  "homepage": "https://github.com/Brayan0508/restapiproduto#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
